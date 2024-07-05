@@ -1,1 +1,3 @@
+if you have any questions, please raise your hand or google it
+
 if you have any questions, clap your hands.
