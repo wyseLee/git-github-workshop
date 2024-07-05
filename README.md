@@ -3,3 +3,5 @@
 Step 1: run "git clone LINK_TO_REPOSITORY" on powershell
 
 Step 2: open the directory in VScode by running "code ."
+...
+Step 69: To be is to do
