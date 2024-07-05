@@ -1,1 +1,1 @@
-if you have any questions, please raise your hand
+if you have any questions, please raise your hand or google it
